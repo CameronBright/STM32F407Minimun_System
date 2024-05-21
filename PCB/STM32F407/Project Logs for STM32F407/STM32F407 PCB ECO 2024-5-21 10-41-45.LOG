@@ -1,0 +1,168 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C16
+Change Component Designator: OldDesignator=C6 NewDesignator=C14
+Change Component Designator: OldDesignator=C7 NewDesignator=C15
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C8
+Change Component Designator: OldDesignator=C14 NewDesignator=C1
+Change Component Designator: OldDesignator=C15 NewDesignator=C2
+Change Component Designator: OldDesignator=C16 NewDesignator=C3
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R3 NewDesignator=R11
+Change Component Designator: OldDesignator=R4 NewDesignator=R14
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=Y1 NewDesignator=Y2
+Change Component Designator: OldDesignator=Y2 NewDesignator=Y1
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B Constant (25℃/50℃)"; Value = "3380K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B Constant (25℃/75℃)"; Value = "3422K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B Constant (25℃/85℃)"; Value = "3435K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B Constant (25℃/100℃)"; Value = "3453K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B Constant Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190723/C406719_56E4CA7886271F3E26D47484E1680181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NTCG163JF103FT1S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10kΩ 电阻精度:±1% 3380K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NTCG163JF103FT1S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NTCG163JF103FT1S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance @ 25℃"; Value = "10kΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Steady State Current (Max)"; Value = "310uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C406719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "NTCG163JF103FT1S"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0402_L)
+Added Component: Designator=R3(R 0402_L)
+Added Component: Designator=R5(R 0402_L)
+Added Component: Designator=R7(R 0402_L)
+Added Component: Designator=USB1(USB-C-SMD_TYPE-C16PIN_C668624)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Power (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200618/C668624_CC51EC37614090AAD56C1421DE954C80.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TYPE-C母座 16P 4脚插件带定位柱 不锈钢外壳 3次模顶"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(首韩)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NO_CONNECT"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C668624"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Added Component: Designator=USB2(USB-C-SMD_TYPE-C16PIN_C668624)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Power (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200618/C668624_CC51EC37614090AAD56C1421DE954C80.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TYPE-C母座 16P 4脚插件带定位柱 不锈钢外壳 3次模顶"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(首韩)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NO_CONNECT"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C668624"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=USB1-1
+Added Pin To Net: NetName=3V3 Pin=USB1-2
+Added Pin To Net: NetName=3V3 Pin=USB1-3
+Added Pin To Net: NetName=3V3 Pin=USB1-4
+Added Pin To Net: NetName=3V3 Pin=USB1-A1B12
+Added Pin To Net: NetName=3V3 Pin=USB1-B1A12
+Added Pin To Net: NetName=3V3 Pin=USB2-1
+Added Pin To Net: NetName=3V3 Pin=USB2-2
+Added Pin To Net: NetName=3V3 Pin=USB2-3
+Added Pin To Net: NetName=3V3 Pin=USB2-4
+Added Pin To Net: NetName=3V3 Pin=USB2-A1B12
+Added Pin To Net: NetName=3V3 Pin=USB2-B1A12
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED1_1
+Add Net: Net with name "5V" already exists
+Added Pin To Net: NetName=DN1 Pin=U1-1
+Added Pin To Net: NetName=DN1 Pin=USB1-A7
+Added Pin To Net: NetName=DN1 Pin=USB1-B7
+Added Net: Name=DN1
+Added Pin To Net: NetName=DN2 Pin=R6-1
+Added Pin To Net: NetName=DN2 Pin=USB2-A7
+Added Pin To Net: NetName=DN2 Pin=USB2-B7
+Added Net: Name=DN2
+Added Pin To Net: NetName=DP1 Pin=U1-2
+Added Pin To Net: NetName=DP1 Pin=USB1-A6
+Added Pin To Net: NetName=DP1 Pin=USB1-B6
+Added Net: Name=DP1
+Added Pin To Net: NetName=DP2 Pin=R4-1
+Added Pin To Net: NetName=DP2 Pin=USB2-A6
+Added Pin To Net: NetName=DP2 Pin=USB2-B6
+Added Net: Name=DP2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=USB1-A5
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=USB1-B5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=USB2-A5
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=USB2-B5
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=VIN Pin=R1-2
+Added Pin To Net: NetName=VIN Pin=USB1-A4B9
+Added Pin To Net: NetName=VIN Pin=USB1-B4A9
+Added Pin To Net: NetName=VIN Pin=USB2-A4B9
+Added Pin To Net: NetName=VIN Pin=USB2-B4A9
+Added Net: Name=VIN
+Added Member To Class: ClassName=U_01_Power Member=Component R1 NTCG163JF103FT1S
+Added Member To Class: ClassName=U_01_Power Member=Component R2 1K
+Added Member To Class: ClassName=U_01_Power Member=Component R3 1K
+Added Member To Class: ClassName=U_01_Power Member=Component R5 1K
+Added Member To Class: ClassName=U_01_Power Member=Component R7 1K
+Added Member To Class: ClassName=U_01_Power Member=Component USB1 TYPE-C 16P(073)
+Added Member To Class: ClassName=U_01_Power Member=Component USB2 TYPE-C 16P(073)
