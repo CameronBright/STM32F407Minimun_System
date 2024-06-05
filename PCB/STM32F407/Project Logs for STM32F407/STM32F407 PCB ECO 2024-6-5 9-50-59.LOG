@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDDA Pin=JP2-4
+Removed Pin From Net: NetName=VREF+ Pin=JP2-5
+Added Pin To Net: NetName=3V3 Pin=JP2-4
+Added Pin To Net: NetName=3V3 Pin=JP2-5

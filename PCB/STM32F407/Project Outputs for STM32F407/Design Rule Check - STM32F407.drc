@@ -1,0 +1,15 @@
+Protel Design System Design Rule Check
+PCB File : D:\Masterpiece\STM32F407Minimun_System\PCB\STM32F407\STM32F407.PcbDoc
+Date     : 2024/6/5
+Time     : 15:59:24
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=12mil) (Conductor Width=10mil) (Air Gap=8mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
