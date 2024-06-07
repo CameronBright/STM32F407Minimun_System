@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Masterpiece\STM32F407Minimun_System\PCB\STM32F407\STM32F407.PcbDoc
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=12.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.16
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

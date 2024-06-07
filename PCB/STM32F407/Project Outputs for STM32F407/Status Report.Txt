@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [STM32F407.PrjPcb]
+   Generated File[Pick Place for STM32F407.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:38:32 On 2024/6/7

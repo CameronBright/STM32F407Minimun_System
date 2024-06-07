@@ -1,0 +1,334 @@
+*************************************************************
+FileName = STM32F407.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : STM32F407.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : STM32F407.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : STM32F407.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : STM32F407.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : STM32F407.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D19
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : STM32F407.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : STM32F407.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : STM32F407.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : STM32F407.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : STM32F407.GP2
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : STM32F407.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D44
+    D45
+    D46
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : STM32F407.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D41
+    D42
+    D43
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : STM32F407.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : STM32F407.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : STM32F407.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : STM32F407.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D19
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : STM32F407.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : STM32F407.GM6
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+    D64
+*************************************************************
+
