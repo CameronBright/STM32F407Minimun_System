@@ -1,10 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [STM32F407.PrjPcb]
-   Generated File[Pick Place for STM32F407.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F407.PrjPcb]
+   Generated File[STM32F407-RoundHoles.TXT]
+   Generated File[STM32F407-SlotHoles.TXT]
+   Generated File[STM32F407.LDP]
+   Generated File[STM32F407.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 14:38:32 On 2024/6/7
+Finished Output Generation At 9:11:43 On 2024/6/25
